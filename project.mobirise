@@ -1,0 +1,662 @@
+{
+  "settings": {
+    "name": "Zenith English Site",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "purity",
+      "title": "PurityM",
+      "styling": {},
+      "additionalSetColors": [
+        "#37383e"
+      ]
+    },
+    "versionFirst": "4.5.2",
+    "uniqCompNum": 31,
+    "versionPublish": "5.3.10",
+    "path": "@PROJECT_PATH@",
+    "siteFonts": [],
+    "imageResize": true,
+    "screenshot": "screenshot.png",
+    "favicon": false,
+    "mbrsiteDomain": "fxb1krmi4j",
+    "robotsSwitcher": false,
+    "sitemapSwitcher": false,
+    "sitemapSwitcherAuto": false,
+    "siteUrl": false,
+    "cookiesAlert": false,
+    "gdpr": false,
+    "publishChangesOnly": false
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Home",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_inherit": "header1",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header2",
+          "_styles": {
+            "H1": {
+              "color": "#000000"
+            },
+            "P": {
+              "color": "#000000",
+              "font-size": "30px"
+            },
+            "B": {
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
+            }
+          },
+          "_anchor": "header2-0",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": false,
+            "contentAlign": "right",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1278.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#bbe8cc",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#ffffff",
+            "overlayOpacity": "0.4"
+          },
+          "title": "Zenith English Centre",
+          "text": "<b>Un instituto diferente con una enseñanza diferente</b>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"index.html#header3-1\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Learn More / Mas</a>"
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_styles": {
+            "P": {
+              "text-align": "center",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            }
+          },
+          "_anchor": "content5-2",
+          "_params": {
+            "showTitle": true,
+            "showCaption": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-3-1620x1080.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.7
+          },
+          "title": "El Directorio",
+          "caption": "<p>&nbsp;El Zenith English Centre es un nuevo concepto en la enseñanza del idioma Inglès. Contamos con un director britanico con muchos años de experiencia en la enseñanza del idioma en varios prestigiosos colegios e institutos de Asunciòn. Nuestro director tambien cuenta con certificados internacionales que avalan su conocimiento extenso del idioma. El es miembro de IATEFL, (Asociacion Internacional de Profesores de Inglés como una Lengua Extranjera). El profesorado esta compuesto por el Profesor Michael Slater y su hija Natalie Slater quien tambien cuenta con certificados internacionales avalando sus conocimientos de la materia. La \"Profe Natty\" se encarga de enseñar a los jovenes y niños menores de 13 años con un sistema muy dinamico y entretenido. Han estado enseñando Ingles en San Lorenzo desde Diciembre del año 1999.</p>"
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_styles": {
+            "P": {
+              "color": "#000000",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            }
+          },
+          "_anchor": "content5-9",
+          "_params": {
+            "showTitle": true,
+            "showCaption": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-1620x1080.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.7
+          },
+          "title": "Nuestra filosofìa",
+          "caption": "<p>La filosofìa del Zenith English Centre se refleja en su lema \"Un instituto diferente con una enseñanza diferente\". Esto implica una enseñanza dinamica e interactiva diseñada a satisfacer las necesidades de cada alumno. Nuestra atencion esta orientada hacia el pleno aprendizaje y utilizacion del idioma por parte de los alumnos en la brevedad posible de acuerdo al programa en estudio. Para ello las clases son personalizadas, donde los grupos de estudio estan conformados por un reducido numero de estudiantes a efectos de lograr una mayor atencion individual.&nbsp;</p>"
+        },
+        {
+          "_inherit": "gallery1",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery2",
+          "_params": {
+            "showBullets": true,
+            "images": [
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/classroom-150x150-150x150.jpg",
+                "image": "@PROJECT_PATH@/assets/images/classroom-150x150.jpg",
+                "alt": "",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/office-200x200-200x200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/office-200x200.jpg",
+                "alt": "",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/dsc01551-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc01551-2000x1500.jpg",
+                "alt": "",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/dsc01550-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc01550-2000x1500.jpg",
+                "alt": "",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/dsc01549-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc01549-2000x1500.jpg",
+                "alt": "",
+                "active": true
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/logoparaguay-752x763-752x763.png",
+                "image": "@PROJECT_PATH@/assets/images/logoparaguay-752x763.png",
+                "alt": "",
+                "title": "",
+                "active": false
+              }
+            ]
+          },
+          "_anchor": "gallery2-8",
+          "articleLayout": true
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_styles": {
+            "P": {
+              "font-family": "'Bitter', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Bitter:400,700"
+            }
+          },
+          "_anchor": "content5-a",
+          "_params": {
+            "showTitle": true,
+            "showCaption": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1842x1080.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.7
+          },
+          "title": "El ambiente",
+          "caption": "<p>Se contempla un ambiente acogedor que va mas alla de una simple clase de Ingles brindando a los estudiantes la posibilidad de usufructuar la denominadas \"Horas de consulta\" en las cuales pueden consultar con los profesores sobre cualquier duda o tema fuera del aula y fuera de la hora de clase tanto como disfrutar o participar en un excelente evento cultural. Tambien pueden consultar nuestra amplia biblioteca actual y virtual.</p>"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showCaption": true,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/online-1200x897.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.7
+          },
+          "title": "Aulas Virtuales - Nuestra especialidad",
+          "caption": "<p>Nuestras clases en linea, a traves de nuestras aulas virtuales son diseñados con el aprendizaje del alumno en mente. Destacamos que los grupos son muy reducidos, teniendo un maximo permitido de cuatro estudiantes por grupo, sin embargo muchos de ellos son individuales.</p><p>El estudiante tiene acceso a todos los materiales del curso, divididos en modules, las 24 horas, en nuestra plataforma. Dichos materiales son seleccionados y preparados cuidadosamente para asegurar una enseñanza eficaz en linea.</p><p>Ademas los estudiantes pueden conectar por Zoom dos veces a la semana, como minimo, una hora cada vez, con el fin de aclarar dudas y para practicar la parte oral del programa.</p><p><br></p>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-n",
+          "_styles": {
+            "P": {
+              "font-family": "'Bitter', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Bitter:400,700"
+            }
+          }
+        },
+        {
+          "_inherit": "msg-box5",
+          "alias": "purity/components",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-i",
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": false,
+            "inverse": true,
+            "imageSize": 50,
+            "paddingTop": "2",
+            "paddingBottom": 0,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#feeaba",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/visitphoto-1104x1872.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Anglia Official Examinations Centre",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>Somos un centro de examinaciones autorizado por Anglia Examinations de Inglaterra. Durante el mes de abril 2018&nbsp; tuvimos la grata visita de la Sra. Estefania Krogulec, International Liaison Officer de Anglia, quien nos brindó mucha informacion y asistencia.</p><p>Estamos orgullosos de poder ser parte de la red de centros autorizados de Anglia.</p><p>A través de Anglia organizamos viajes a Inglaterra para nuestros alumnos interesados en visitar a Inglaterra; aprender Inglés y conocer la forma de vida de los ingleses. &nbsp;Dichas viajes, en grupo, se realizan durante los meses de enero y julio.</p><p>Ademas de ser un centro autorizado, somos examinadores de Anglia y agent local para las ciudades de Fernando de la Mora y de San Lorenzo.</p><p>Todos nuestros estudiantes tienen la posibilidad de rendir los examenes de Anglia de acuerdo a su nivel. Son opcionales, altamente recomendados debido a que cuentan con&nbsp; reconocimiento internacional y estan validos de por vida.&nbsp;</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">More</a>"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showName": true,
+            "showBio": true,
+            "count": "6",
+            "paddingTop": "2",
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/students-1600x431.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#feeaba",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "header": "Que opinan nuestros estudiantes?",
+          "items": [
+            {
+              "authorName": "Isaac",
+              "authorBio": "Estudiante - Julio 2021",
+              "text": "<em>“en mi opinion las clases virtuales contigo son&nbsp; muy buenas, debido a que estamos interactuando y socializando constantemente. Tenemos muchisimos metodos distintos a realizar y eso lo hace a cada clase mas divertida ya que no se vuelve tan monotono como solia ser en presenciales.”</em>"
+            },
+            {
+              "authorName": "SUFFIAN A.",
+              "authorBio": "User",
+              "text": "<em>“First of all hands off to you guys for your effort and nice, super tool. Good work mobirise team. We are expecting the new version soon with advance functionality with full bootstrap design. Great effort and super UI experience with easy drag & drop with no time design bootstrap builder in present web design world.”</em>"
+            },
+            {
+              "authorName": "JHOLLMAN C.",
+              "authorBio": "User",
+              "text": "<em>“At first view, looks like a nice innovative tool, i like the great focus and time that was given to the responsive design, i also like the simple and clear drag and drop features. Give me more control over the object's properties and ill be using this tool for more serious projects. Regards.”</em>"
+            },
+            {
+              "authorName": "John Smith",
+              "authorBio": "Developer",
+              "text": "<em>“Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi, aspernatur, voluptatibus, atque, tempore molestiae sed modi a ullam sint adipisci rerum vel praesentium voluptas deserunt veniam provident culpa sequi veritatis.”</em>"
+            }
+          ],
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "testimonials1",
+          "_anchor": "testimonials1-o",
+          "testimonial": [
+            {
+              "authorName": "Isaac",
+              "authorBio": "Julio 2021",
+              "text": "<em>“en mi opinion las clases virtuales contigo son&nbsp; muy buenas, debido a que estamos interactuando y socializando constantemente. Tenemos muchisimos metodos distintos a realizar y eso lo hace a cada clase mas divertida ya que no se vuelve tan monotono como solia ser en presenciales.”</em>"
+            },
+            {
+              "authorName": "SUFFIAN A.",
+              "authorBio": "User",
+              "text": "<em>“First of all hands off to you guys for your effort and nice, super tool. Good work mobirise team. We are expecting the new version soon with advance functionality with full bootstrap design. Great effort and super UI experience with easy drag & drop with no time design bootstrap builder in present web design world.”</em>"
+            },
+            {
+              "authorName": "JHOLLMAN C.",
+              "authorBio": "User",
+              "text": "<em>“At first view, looks like a nice innovative tool, i like the great focus and time that was given to the responsive design, i also like the simple and clear drag and drop features. Give me more control over the object's properties and ill be using this tool for more serious projects. Regards.”</em>"
+            },
+            {
+              "authorName": "John Smith",
+              "authorBio": "Developer",
+              "text": "<em>“Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi, aspernatur, voluptatibus, atque, tempore molestiae sed modi a ullam sint adipisci rerum vel praesentium voluptas deserunt veniam provident culpa sequi veritatis.”</em>"
+            },
+            {
+              "authorName": "John Smith",
+              "authorBio": "Developer",
+              "text": "<em>“Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi, aspernatur, voluptatibus, atque, tempore molestiae sed modi a ullam sint adipisci rerum vel praesentium voluptas deserunt veniam provident culpa sequi veritatis.”</em>"
+            },
+            {
+              "authorName": "John Smith",
+              "authorBio": "Developer",
+              "text": "<em>“Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi, aspernatur, voluptatibus, atque, tempore molestiae sed modi a ullam sint adipisci rerum vel praesentium voluptas deserunt veniam provident culpa sequi veritatis.”</em>"
+            }
+          ]
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "text-align": "center"
+            },
+            ".lead P": {
+              "text-align": "center"
+            },
+            "small": {
+              "font-size": "20px"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showMeta": true,
+            "showText": true,
+            "showButton": false,
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#abdbf2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Costo de los cursos / examenes",
+          "meta": "Valido por el&nbsp; 2021",
+          "text": "<p><i><span style=\"font-size: 1.25rem;\">La matricula anual, para todos los niveles,&nbsp; es Gs.130.000 calculado a partir de la fecha de inscripcion.</span><br></i></p><p><i>La cuota mensual, para todos los niveles, es Gs. 130.000, preferiblemente abonado dentro de los primeros diez dias de cada mes.&nbsp;</i></p><p><i>Los aranceles para los examenes internacionales de Anglia son fijados por ellos y estan disponibles sobre pedido.</i></p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">See All Templates</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-s"
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButton": false,
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#feeaba",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Auspiciamos",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p><span style=\"font-size: 1.25rem;\">Centro de Capacitación e Investigación Genealogica</span><br></p><p>Paraguay English Language Teachers Special Interest Group</p><p>\n</p><p>\n</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">See All Templates</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-u"
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_anchor": "form1-6",
+          "_params": {
+            "showTitle": true,
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#bbe8cc",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Contact Form",
+          "form": {
+            "action": "zenithenglishonline@gmail.com",
+            "alerts": {
+              "success": "Thanks for filling out form! We will contact you soon.  / Muchas gracias por haber completado el formulario. Estaremos en contacto en la brevedad posible."
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Name / Nombre*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "Phone / Tel"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message / Mensaje"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-success-outline btn-success\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact Us</a>"
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "map1",
+          "_anchor": "map1-3",
+          "_params": {
+            "googleMap": {
+              "address": "Zenith English Centre\n",
+              "placeId": "ChIJV6-c_3yuXZQR5oznM1a4ExE",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          }
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_styles": {
+            "UL": {
+              "color": "#f1c050"
+            }
+          },
+          "_anchor": "contacts1-4",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#37383e",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/logo-zenith-round-png-small-119x118.png",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<strong>Address</strong><br>Mcal. Estigarribia 2531<br>e/ Saturio Rios y Gral. Genes<br>San Lorenzo",
+          "text2": "<strong>Contacts</strong><br>\nEmail: zenithenglishcentre@gmail.com<br>\nPhone: 0972-139417<br>WhatsApp: 0972-139417",
+          "text3": "<strong>Affilliate Links</strong><ul><li><a href=\"https://genealogiaparaguaya.org/\" class=\"text-primary\" target=\"_blank\">Genealogia Paraguaya</a></li><li><a href=\"mailto:zenithenglishonline@gmail.com\" class=\"text-primary\">Centro de Investigacion y Capacitacion Genealogica - Paraguay</a></li><li><br></li></ul>"
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_styles": {
+            ".navbar-toggler": {
+              "color": "#0275d8"
+            },
+            ".nav-link": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-size": "20px"
+            },
+            ".navbar-brand": {
+              "font-size": "25px"
+            }
+          },
+          "_anchor": "menu-7",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "showButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "color": "#fff8e0",
+            "hamburgerColor": "#0275d8"
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-sin-fondo-medium-130x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://www.facebook.com/Zenith-English-Centre",
+              "title": "",
+              "linkInNewWindow": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-brand text-primary\" data-app-btn=\"true\" href=\"mailto:zenithenglishcentre@gmail.com\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Zenith English Centre</a>",
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"https://mobirise.com\">Download</a></li>",
+          "items": " <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-primary\" data-app-selector=\".nav-link\" href=\"index.html#content5-2\" target=\"_blank\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-primary\" data-app-selector=\".nav-link\" href=\"index.html#content5-n\" target=\"_blank\">About</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-primary\" data-app-selector=\".nav-link\" href=\"index.html#form1-6\" target=\"_blank\">Contact</a></li>"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,68 @@
+@import url(https://fonts.googleapis.com/css?family=Lato:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
+@import url(https://fonts.googleapis.com/css?family=Bitter:400,700);
+
+
+
+
+
+
+#header2-0 H1 {
+  color: #000000;
+}
+#header2-0 P {
+  color: #000000;
+  font-size: 30px;
+}
+#header2-0 B {
+  font-family: 'Lato', sans-serif;
+}
+#content5-2 P {
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+}
+#content5-9 P {
+  color: #000000;
+  font-family: 'Montserrat', sans-serif;
+}
+#content5-a P {
+  font-family: 'Bitter', serif;
+}
+#content5-n P {
+  font-family: 'Bitter', serif;
+}
+#msg-box3-s .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#msg-box3-s .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#msg-box3-s .mbr-section-title {
+  text-align: center;
+}
+#msg-box3-s .lead P {
+  text-align: center;
+}
+#msg-box3-s small {
+  font-size: 20px;
+}
+#msg-box3-u .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#msg-box3-u .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#contacts1-4 UL {
+  color: #f1c050;
+}
+#menu-7 .navbar-toggler {
+  color: #0275d8;
+}
+#menu-7 .nav-link {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 20px;
+}
+#menu-7 .navbar-brand {
+  font-size: 25px;
+}
